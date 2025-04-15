@@ -1,1 +1,1 @@
-print("this is dummy 1 fike in pc")
+print("this is dummy 1 file in pc")
